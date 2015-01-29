@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+
+# A simple Google Closure Compilers command line tool
+# Author: Sang Hero
+# Version 0.1.0
+# License: GNU GPL v3
+
 import requests
 import argparse
 
